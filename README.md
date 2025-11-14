@@ -2,7 +2,7 @@
 
 Neon link portal to all things GAMMO – with particles, secret intro, and a Konami-code hidden chamber.
 
-## ✨ Feature
+## ✨ Features
 
 - **Neon landing card** with floating orb logo and animated orbits  
 - **Hacking console intro** that types system messages on load  
